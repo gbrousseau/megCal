@@ -1,0 +1,2 @@
+# megCal
+Event planning app.
